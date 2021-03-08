@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "358592733944",
+    "firebase_url": "https://mr-birdie-27507025.firebaseio.com",
+    "project_id": "mr-birdie-27507025",
+    "storage_bucket": "mr-birdie-27507025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358592733944:android:49b6f6459df6b14d",
+        "android_client_info": {
+          "package_name": "com.themistrustful.mrbirdie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358592733944-3uckcc1bddgj4m2lloa8c838mcok2nio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfwuI76G8kIlQCanydT3XErJagB-vMAVU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

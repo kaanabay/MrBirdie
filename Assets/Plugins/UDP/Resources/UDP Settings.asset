@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -107981364, guid: 741884b37a0234d86bb740e55081cd5f, type: 3}
+  m_Name: UDP Settings
+  m_EditorClassIdentifier: 
+  UnityProjectID: 83c77185-e0c3-43b1-9702-11be467532fd
+  UnityClientID: 9YkJDSM00HhHp2KbuKef1g
+  UnityClientKey: Lhbeujfq5NBf7_R1RejeXWOZeU0ngPLXeJY6X2dg1L0
+  UnityClientRSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlVYj5AdIHxZNqbROmaxSZi3SUdoVHGZCW1F1IOlXbGGNBB+1yg9nbMe+S2aAp1Z/1uxUuOPb///qs9yGxUr9hQVYX+cdR8Bt0cALsu6WiaH3pve6FIFgrV74BnJhdr/6poY7ECULRzN5fR9HwXLsNNHpuxibGX+hyL3kA+mnCCmL+zIeYuSlJwxRopoLD2BuWiklvunBhapbWFAmlnUkSX3bGGBQHqQsM0ewzQ+fYQh7h+kfi5GflGW3CVRqE931Qt8ArLPzQaE18qUvIfIvO0pDBrkj2TyBIe52MGeWixOlLHhLN5zU97q2RqYAmmb64zPhELrNodzX0b76tZsszwIDAQAB
+  AppName: Mr. Birdie
+  AppSlug: 11007734-b1dc-4aaf-8676-f8709265b08e
+  AppItemId: 274878863895
+  Permission: owner
